@@ -25,3 +25,6 @@ Leaving us with the image below.
 
 ![image](References_Photos/29_Flipped.png)
 
+Zooming in to have a better look at the words, so we can start to find the book the person is reading gives us this image:
+
+![image](References_Photos/Kindle_Zoomed.PNG)
