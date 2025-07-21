@@ -8,5 +8,18 @@ The task is to find the following:
 2. Identify the model of train that the photographer is on.
 3. Identify the seat number that the photographer is sat at the particular time. 
 
-![image](osintexercise029.jpg)﻿
-﻿
+![image](References_Photos/osintexercise029.png)
+
+
+## Initial Thoughts
+
+1. Image will need to be reversed in order to be able to see the words written on the book
+2. Train carriage has a locker storage rack overhead
+3. Theme of the train is Grey / Red
+
+
+## Solution
+
+Since the image needs to be reversed this is our first task, using a software such as [PineTools](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiy5_qF4s2OAxUqVEEAHTvTF68QFnoECBcQAQ&url=https%3A%2F%2Fpinetools.com%2Fflip-image&usg=AOvVaw2DaC8YLYyvn0OobxPhscO_&opi=89978449)
+Leaving us with the image below.
+
