@@ -25,6 +25,25 @@ Leaving us with the image below.
 
 ![image](References_Photos/29_Flipped.png)
 
-Zooming in to have a better look at the words, so we can start to find the book the person is reading gives us this image:
+### Zooming in to have a better look at the words, so we can start to find the book the person is reading gives us this image:
 
 ![image](References_Photos/Kindle_Zoomed.PNG)
+
+### In order to see better, lowering the exposure and increasing the contrast slightly gives us the image below:
+
+![image](References_Photos/Zoomed_Low_Exp.png)
+
+Below is a marked version of what I have been able to pick out:
+
+![image](References_Photos/Zoomed_Low_Exp_Marked.PNG)
+
+
+### From this certain words can be extracted these are:
+
+| **Color** | **Description**             |
+|-----------|-----------------------------|
+| 🟧 **Orange** | **Leather Gloves**          |
+| 🟪 **Purple** | **Seen Better Days**        |
+| 🟦 **Blue**   | **Boat...??? Portmanteau**      |
+| 🟩 **Green**  | **Williams Cousin James**   |
+
