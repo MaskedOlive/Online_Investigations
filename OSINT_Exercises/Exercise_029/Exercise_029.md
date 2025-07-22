@@ -72,3 +72,20 @@ LNER operates along the East Coast of the UK. Map is shown below, or click [HERE
 ![image](References_Photos/LNER_Map.PNG)
 
 To find the model of train that the eprson is sat on we need to have a look at the current fleet of trains in serivce:
+
+![image](References_Photos/Google_Current_Fleet.PNG)
+
+Using Google AI sources of information, it can be shown that the vast majority of the fleet consists of the Hitachi Built "Azuma" Trains also known as the class 800 and 801 series. 
+
+Looking into both of these series on Wikipedia, here are the results for the 800 Series:
+
+![image](References_Photos/Wiki_800.PNG)
+![image](References_Photos/Wiki_800_img.PNG)
+
+Results for the 801 Series:
+![image](References_Photos/Wiki_801.PNG)
+![image](References_Photos/Wiki_801_img.PNG)
+
+**It can be seen that out of the two fleet options the one that matches the initial photograph is the 801 Series**
+
+## Solution - What seat is the photographer saton
