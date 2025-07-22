@@ -95,3 +95,7 @@ According to LNER’s guide, class 801 comes in either 9 or 5 carriages, and the
 Knowing that the photographer always prefers "quiet areas where no one can sit behind me"
 
 Looking at the 9 car train, in coach H (Quiet zone) which is pictured below:
+
+![image](References_Photos/Azuma_H.PNG)
+
+Knowing that the phorographer likes no-one to sit behind them, and that they are on the **right** side of the carriage, it can be assumed that they would be sitting in Seat 83 on Coach H on board of the 801 Azuma Series trains operated by LNER
