@@ -71,4 +71,4 @@ LNER operates along the East Coast of the UK. Map is shown below, or click [HERE
 
 ![image](References_Photos/LNER_Map.PNG)
 
-
+To find the model of train that the eprson is sat on we need to have a look at the current fleet of trains in serivce:
