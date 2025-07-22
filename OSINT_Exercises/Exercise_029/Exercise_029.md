@@ -18,7 +18,7 @@ The task is to find the following:
 3. Theme of the train is Grey / Red
 
 
-## Solution
+## Solution - Find the book the person is reading
 
 Since the image needs to be reversed this is our first task, using a software such as [PineTools](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiy5_qF4s2OAxUqVEEAHTvTF68QFnoECBcQAQ&url=https%3A%2F%2Fpinetools.com%2Fflip-image&usg=AOvVaw2DaC8YLYyvn0OobxPhscO_&opi=89978449)
 Leaving us with the image below.
@@ -46,4 +46,14 @@ Below is a marked version of what I have been able to pick out:
 | 🟪 **Purple** | **Seen Better Days**        |
 | 🟦 **Blue**   | **Boat...??? Portmanteau**      |
 | 🟩 **Green**  | **Williams Cousin James**   |
+
+## Going onto google books search and entering in the words that I know, here was the search results:
+
+![image](References_Photos/Google_Book_Search.PNG)
+
+Going into the preview and searching for "leather gloves", the book can be verified as **The Fair Botanists by Sara Sheridan**
+
+![image](References_Photos/Book_Words_Match.PNG)
+
+## Solution - Finding the model of train and the seat that they are sat
 
