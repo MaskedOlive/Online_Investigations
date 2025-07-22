@@ -88,4 +88,10 @@ Results for the 801 Series:
 
 **It can be seen that out of the two fleet options the one that matches the initial photograph is the 801 Series**
 
-## Solution - What seat is the photographer saton
+## Solution - What seat is the photographer sat on
+
+According to LNER’s guide, class 801 comes in either 9 or 5 carriages, and the 5 carriage sets will always be doubled up to 10. [HERE](https://sites.create-cdn.net/sitefiles/19/3/4/193478/Azuma-seat-maps.pdf). According to the website "The LNER Azuma trains have a designated "Quiet Coach" in Coach H on the 9-coach trains. If you are traveling in this coach, it is requested that you keep noise to a minimum and silence electronic devices. There is no dedicated quiet coach on the 5 and 10-coach Azuma trains."
+
+Knowing that the photographer always prefers "quiet areas where no one can sit behind me"
+
+Looking at the 9 car train, in coach H (Quiet zone) which is pictured below:
