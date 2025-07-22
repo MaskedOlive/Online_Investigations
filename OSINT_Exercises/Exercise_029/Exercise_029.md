@@ -57,3 +57,9 @@ Going into the preview and searching for "leather gloves", the book can be verif
 
 ## Solution - Finding the model of train and the seat that they are sat
 
+Linking back to my initial thoughts, specifically **2 and 3**, where the train interior is grey and red with an overhead storage for luggage. There is also a red sticker on the back of at least one of the seats in the carriage. The seats are also red fabric with hard grey backing.
+
+Going to Google and having a google for UK train interiors that are red and grey here is the search results.
+
+
+
