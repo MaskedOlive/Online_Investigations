@@ -4,4 +4,5 @@
 
 Below, a screenshot from a tweet containing a photo can be viewed. Identify the coordinates of where the photo was taken.
 
-![image](Briefing.png)
+![image](Reference_Phots/Briefing.png)
+
